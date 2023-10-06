@@ -1,4 +1,4 @@
-# reggie_take_out
+# Takeaway
 1. Description
 Through the accumulation of development experience in this project, basic coding abilities will be tested through actual project practice, while self-learning and independent problem-solving abilities will be stimulated.
 
